@@ -1,6 +1,7 @@
 ### Hello, and welcome to my simple weather (wx) api
 
 Get started by creating a virtual environment (I used "venv") and installing the dependencies.
+
 `pip install -r requirements.txt`
 
 
